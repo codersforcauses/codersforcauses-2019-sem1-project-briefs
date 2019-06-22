@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-To new and returning coders, hello from the team. If you don’t know much about us, we’re a student organisation that develops software for not-for-profit organisations (NPOs) and charities, to help them with their compassionate objectives. You can see some past projects here - <https://codersforcauses.org/home>.
+To new and returning coders, hello from the team. If you don’t know much about us, we’re a student organisation that develops software for not-for-profit organisations (NPOs) and charities, to help them with their compassionate objectives. You can see some past projects here - <https://codersforcauses.org>.
 
 This winter break, we have three very different but impactful projects to offer. Your work on these projects will enhance these different organisations, and their communities. These projects will also continue through to the summer because we want to provide these organisations with quality, products. 
 
